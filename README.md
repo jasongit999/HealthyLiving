@@ -8,4 +8,4 @@ step to run the App
 - NPM install
 - NPM start
 
-- retry 
+- retry 2
